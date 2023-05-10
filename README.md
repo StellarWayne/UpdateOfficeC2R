@@ -4,7 +4,7 @@
   <br/>
   <img src="https://res.cloudinary.com/stellaraf/image/upload/v1604277355/stellar-logo-gradient.svg" width="300" />
   <br/>
-  <h3>Stellar Compliance Automation - TugMyBoatSentinelOne</h3>
+  <h3>Stellar Compliance Automation - Update Office C2R</h3>
   <br/>
   <br/>
 </div>
